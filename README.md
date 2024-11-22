@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABDURRAHMANKABEER
-- 👀 I’m interested in webdev and blockchain dev
+- 👀 I’m interested in webdev
 - 🌱 I’m currently learning fullstack development using javascript, react, redux and firebase.
 - 💞️ I’m looking to collaborate on any project that involves the above fields.
 - 📫 How to reach me abdurrahmankabeer2003@gmail.com.
